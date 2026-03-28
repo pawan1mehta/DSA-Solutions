@@ -1,87 +1,93 @@
 class Solution {
-    
-    private int dfs(int node, int destNode, ArrayList<ArrayList<int[]>> adjList, int maxTime, boolean[] visited) {
-        if(maxTime < 0) {
-            return 0;
-        }
-        
-        if(maxTime == 0 && node == destNode) {
-            return 1;
-        }
-        
-        int count = 0;
-        
-        visited[node] = true;
-        
-        int adj, time;
-        for(int[] adjNode : adjList.get(node)) {
-            adj = adjNode[0];
-            time = adjNode[1];
-            
-            if(!visited[adj]) {
-                count += dfs(adj, destNode, adjList, maxTime - time, visited);
-            }
-        }
-        
-        visited[node] = false;
-        
-        return count;
-    }
-    
     public int countPaths(int V, int[][] edges) {
-        ArrayList<ArrayList<int[]>> adjList = constructAdjList(V, edges);
+        List<List<int[]>> adjList = constructAdjList(V, edges);
         
-        int maxTime = minDist(0, V - 1, V, adjList);
+        int minTime = minTimeToReachDestination(V, adjList, 0, V - 1);
         
-        boolean[] visited = new boolean[V];
+        int numOfWays = countWaysToReachDestinationWithLimitedTime(V, adjList, 0, V - 1, minTime);
         
-        int count = dfs(0, V-1, adjList, maxTime, visited);
-        
-        return count;
+        return numOfWays;
     }
     
-    private int minDist(int src, int dest, int V, ArrayList<ArrayList<int[]>> adjList) {
-        Queue<Integer> bfs = new LinkedList<>();
+    private int minTimeToReachDestination(int V, List<List<int[]>> adjList, int src, int dest) {
         int[] dist = new int[V];
-        
         Arrays.fill(dist, Integer.MAX_VALUE);
         
-        bfs.add(src);
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>(new Comparator<int[]>(){
+           public int compare(int[] a, int[] b) {
+               return Integer.compare(a[1], b[1]); 
+           } 
+        });
+        
+        minHeap.add(new int[]{src, 0});
         dist[src] = 0;
         
-        while(!bfs.isEmpty()) {
-            int currNode = bfs.poll();
+        int u, v, time;
+        while(!minHeap.isEmpty()) {
+            int[] currNode = minHeap.poll();
             
-            if(currNode == dest) {
+            u = currNode[0];
+            
+            if(dist[u] < currNode[1]) {
                 continue;
             }
             
-            for(int[] adjNode : adjList.get(currNode)) {
-                int adj = adjNode[0];
-                int time = adjNode[1];
+            for(int[] adjNode : adjList.get(u)) {
+                v = adjNode[0];
+                time = adjNode[1];
                 
-                if(dist[adj] > (dist[currNode] + time)) {
-                    dist[adj] = dist[currNode] + time;
-                    bfs.add(adj);
+                if(dist[v] > (dist[u] + time)) {
+                    dist[v] = dist[u] + time;
+                    minHeap.add(new int[]{v, dist[v]});
                 }
             }
         }
         
-        return dist[dest];
+        return dist[V - 1];
     }
     
-    private ArrayList<ArrayList<int[]>> constructAdjList(int V, int[][] edges) {
-        ArrayList<ArrayList<int[]>> adjList = new ArrayList<>();
+    private int countWaysToReachDestinationWithLimitedTime(int V, List<List<int[]>> adjList, int src, int dest, int limitedTime) {
+        boolean[] visited = new boolean[V];
+        return dfs(src, dest, limitedTime, adjList, visited);    
+    }
+    
+    private int dfs(int src, int dest, int limitedTime, List<List<int[]>> adjList, boolean[] visited) {
+        if(limitedTime < 0) {
+            return 0;
+        }
         
-        for(int node = 0; node < V; node++) {
+        if(src == dest) {
+            return 1;
+        }
+        
+        visited[src] = true;
+        
+        int total = 0;
+        
+        for(int[] adjNode : adjList.get(src)) {
+            if(!visited[adjNode[0]]) {
+                total += dfs(adjNode[0], dest, limitedTime - adjNode[1], adjList, visited);
+            }
+        }
+        
+        visited[src] = false;
+        
+        return total;
+    }
+    
+    private List<List<int[]>> constructAdjList(int V, int[][] edges) {
+        List<List<int[]>> adjList = new ArrayList<>();
+        
+        for(int i = 0; i < V; i++) {
             adjList.add(new ArrayList<>());
         }
         
-        int u, v, t;
+        int u, v, time;
         for(int[] edge : edges) {
-            u = edge[0]; v = edge[1]; t = edge[2];
-            adjList.get(u).add(new int[]{v, t});
-            adjList.get(v).add(new int[]{u, t});
+            u = edge[0]; v = edge[1]; time = edge[2];
+            
+            adjList.get(u).add(new int[]{v, time});
+            adjList.get(v).add(new int[]{u, time});
         }
         
         return adjList;
