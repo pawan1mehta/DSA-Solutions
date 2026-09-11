@@ -5,6 +5,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -39,4 +40,16 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
