@@ -5,6 +5,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -86,4 +87,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
