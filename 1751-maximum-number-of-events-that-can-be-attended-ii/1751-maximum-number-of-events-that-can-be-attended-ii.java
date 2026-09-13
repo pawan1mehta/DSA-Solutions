@@ -1,6 +1,5 @@
 class Solution {
-    int[][] memo;
-    
+
     private int findNextIndx(int[][] intervals, int endTime) {
         int n = intervals.length;
 
@@ -21,23 +20,6 @@ class Solution {
         return idx;
     }
 
-    private int solve(int i, int k, int[][] events) {
-        if(k == 0 || i >= events.length || i < 0) {
-            return 0;
-        }
-
-        if(memo[i][k] != -1) {
-            return memo[i][k];
-        }
- 
-        int j = findNextIndx(events, events[i][1]);
-
-        int opt1 = events[i][2] + solve(j, k - 1, events);
-        int opt2 = solve(i + 1, k, events);
-
-        return memo[i][k] = Math.max(opt1, opt2);
-    }
-
     public int maxValue(int[][] events, int k) {
         int n = events.length;
 
@@ -50,11 +32,19 @@ class Solution {
             }
         });
 
-        memo = new int[n][k + 1];
-        for(int i = 0; i < n; i++) {
-            Arrays.fill(memo[i], -1);
+        int[][] dp = new int[k + 1][n + 1];
+
+        for(int i = n - 1; i >= 0; i--) {
+            for(int count = 1; count <= k; count++) {
+                int nextIdx = findNextIndx(events, events[i][1]);
+                if(nextIdx != -1) {
+                    dp[count][i] = Math.max(dp[count][i + 1], events[i][2] + dp[count - 1][nextIdx]);
+                } else {
+                    dp[count][i] = Math.max(events[i][2], dp[count][i + 1]);
+                }
+            }
         }
 
-        return solve(0, k, events);
+        return dp[k][0];
     }
 }
