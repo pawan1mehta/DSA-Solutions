@@ -24,6 +24,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -87,8 +89,13 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
