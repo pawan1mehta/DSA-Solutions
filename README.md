@@ -9,6 +9,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -18,6 +19,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -60,6 +62,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -75,6 +78,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -110,4 +114,5 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
