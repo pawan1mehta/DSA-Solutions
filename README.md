@@ -13,6 +13,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -41,6 +42,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +129,5 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
