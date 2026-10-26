@@ -16,6 +16,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -61,6 +62,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +143,12 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [1021-remove-outermost-parentheses](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
