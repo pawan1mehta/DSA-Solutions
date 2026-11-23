@@ -7,6 +7,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [0835-image-overlap](https://github.com/pawan1mehta/DSA-Solutions/tree/master/0835-image-overlap) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -22,6 +23,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -51,6 +53,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -151,4 +154,12 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
