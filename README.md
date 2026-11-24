@@ -15,6 +15,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | [2008-maximum-earnings-from-taxi](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pawan1mehta/DSA-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -54,6 +55,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -85,6 +87,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -162,4 +166,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
