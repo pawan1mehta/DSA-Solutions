@@ -55,6 +55,7 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pawan1mehta/DSA-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3870-count-commas-in-range) |
@@ -170,4 +171,8 @@ The code in this repository was uploaded using [LeetHub v2](https://chromewebsto
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/pawan1mehta/DSA-Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
